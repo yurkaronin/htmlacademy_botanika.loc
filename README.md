@@ -1,2 +1,2 @@
 # htmlacademy_botanika.loc
- агазина цветов Botanika: главная страница
+ Магазин цветов Botanika: главная страница
