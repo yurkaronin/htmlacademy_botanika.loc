@@ -9,7 +9,7 @@ body {
     background: #FFFFFF;
 }
 
-.buttons {
+.button {
     background: #D89999;
     border-radius: 40px;
     color: #FFFFFF;
@@ -25,7 +25,7 @@ body {
 }
 
 .promo-heading span {
-    /* font-style: bold; */
+    font-style: italic;
 }
 
 .promo-text {
@@ -43,7 +43,7 @@ body {
 
 /* Стили для popular */
 
-.poplar-heading {
+.popular-heading {
     font-family: "Montserrat", "Arial", sans-serif;
     font-weight: bold;
     font-size: 36px;
@@ -151,7 +151,7 @@ body {
 /* Стили для map */
 
 .contacts {
-    font-size: 6px;
+    font-size: 16px;
     line-height: 20px;
     background: #F7FAFC;
     box-shadow: 0px 4px 40px rgba(217, 217, 217, 0.3);
@@ -177,5 +177,9 @@ body {
 
 .footer-nav-link {
     color: #FFFFFF;
+}
+
+.type-item {
+    background-repeat: no-repeat;
 }
 
